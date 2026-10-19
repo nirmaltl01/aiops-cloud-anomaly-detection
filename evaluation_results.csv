@@ -1,0 +1,5 @@
+Model,Accuracy (%),Precision (%),Recall (%),True Positives (TP),False Positives (FP),True Negatives (TN),False Negatives (FN)
+Z-Score (Statistical),98.85,86.36,42.46,76,12,9809,103
+Isolation Forest (ML),98.37,58.0,32.4,58,42,9779,121
+LSTM Autoencoder (DL),96.29,2.0,2.23,4,196,9625,175
+Consensus Engine (Final),98.59,95.24,22.35,40,2,9819,139
